@@ -11,7 +11,7 @@
 
 - 🎧 When I'm not coding, I'm usually exploring new music (I'm a huge melophile!)
 
-- 📚 Besides coding and music, I enjoy watching movies, drawing.
+- 📚 Besides coding and music, I enjoy watching movies, drawing, reading books.
 
 - 🛠️ I'm a builder at heart—whether it's with code, intricate origami, or DIY stuff.
 
