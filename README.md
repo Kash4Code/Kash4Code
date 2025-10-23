@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Kashinath R P</h1>
 <h3 align="center">A student and developer passionate about building real-world applications with AI and modern web technologies. My journey into tech started with a love for video games and a passion for solving problems. While game development was the initial spark, I found my true calling in software development and have spent the last 9 months diving deep into Data Structures, Algorithms, and full-stack projects. I'm driven by the challenge of solving a difficult problem and am committed to a long-term journey of learning and growing as a developer.</h3>
 
-- 🔭 I’m currently working on [MedBot(In Progress)](https://github.com/Kash4Code/MedBot_RAG)
+<br>
 
-- 🌱 I’m currently learning **React, Python, SQL, DevOps, JavaScript, GSAP, Linux**
+- ✨ My latest completed project: **[Animated Cocktails Website](https://github.com/Kash4Code/animated_cocktails)**
 
-- 🔭 I’m currently working on [AI Resume Analyzer(In Progress)](https://github.com/Kash4Code/ai-resume-analyzer)
+- 🔭 I’m currently building the [Medical Chatbot](https://github.com/Kash4Code/MedBot_RAG) and an [AI - powered Applicant Tracking System](https://github.com/Kash4Code/ai-resume-analyzer)
 
-- 📫 How to reach me **rpkashinath@gmail.com**
+- 🌱 I’m currently deepening my knowledge in: **React, Python, SQL, DevOps (AWS & Docker), Linux**
+
+- 🎧 When I'm not coding, I'm usually exploring new music (I'm a huge melophile!)
+
+- 📚 Besides coding and music, I enjoy watching movies, drawing.
+
+- 🛠️ I'm a builder at heart—whether it's with code, intricate origami, or DIY stuff.
+
+- 📫 You can reach me at **rpkashinath@gmail.com**
+  
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
