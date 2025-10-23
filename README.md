@@ -3,7 +3,7 @@
 
 <br>
 
-- ✨ My latest completed project: **[Animated Cocktails Website](https://github.com/Kash4Code/animated_cocktails)**
+- ✨ My first completed project: **[Animated Cocktails Website](https://github.com/Kash4Code/animated_cocktails)**
 
 - 🔭 I’m currently building the [Medical Chatbot](https://github.com/Kash4Code/MedBot_RAG) and an [AI - powered Applicant Tracking System](https://github.com/Kash4Code/ai-resume-analyzer)
 
