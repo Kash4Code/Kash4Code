@@ -15,6 +15,10 @@
 
 - 🛠️ I'm a builder at heart—whether it's with code, intricate origami, or DIY stuff.
 
+- 🪙 I also have a knack for collecting old coins and stamps.
+
+- 💡 Fun Fact: I get fascinated by simple things. 
+
 - 📫 You can reach me at **rpkashinath@gmail.com**
   
 <br>
